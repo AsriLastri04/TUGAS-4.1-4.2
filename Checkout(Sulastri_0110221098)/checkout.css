@@ -1,0 +1,177 @@
+body{
+    background-color: pink;
+}
+.kotakutama{
+    width: 800px; 
+    height: 810px; 
+    background: white; 
+    margin: auto; 
+    border:3px solid black;
+}
+.header{
+    width: 800px; 
+    height: 80px; 
+    background: lightgrey; 
+    border-bottom:3px solid black;
+}
+.icon_kotak{
+    width : 10px;
+    height: 12px; 
+    margin-top: 15px; 
+    margin-left: 40px;
+}
+.categori{
+    padding-left: 20px;
+    padding-top: 18px; 
+    font-size: 15px;
+}
+.icon_search{
+    padding-left: 270px; 
+    padding-top: 18px
+}
+.icon_cart{
+    padding-left: 10px; 
+    padding-top: 18px;
+}
+.text_cart{
+    padding-left: 10px; 
+    padding-top: 18px; 
+    font-size: 15px;
+}
+.isikiri{
+    width: 60%; 
+    height: 350px; 
+    background: white; 
+    float: left;
+}
+.tabel_order{
+    margin-top: 50px; 
+    margin-left: 40px;
+}
+.icon_ceklis{
+    width: 40px; 
+    height: 40px; 
+    margin-right: 20px; 
+}
+.order{
+    float: left; 
+    font-size: 12px;
+}
+.confirmed{
+    margin-left: 50px;
+}
+.text{
+    width: 60%px;
+     height: 200px;
+}
+.text_kiri{
+    width: 50%;
+    height: 200px;
+     float: left;
+}
+.teks_kanan{
+    width: 50; 
+    height: 200px; 
+    float: left;
+}
+.customer{
+    padding-left: 50px;
+}
+.customer1{
+    padding-left: 50px;
+    color: white;
+}
+.link{
+    padding-left: 50px;
+    color: blue;
+}
+.isi_kanan{
+    width: 40%; 
+    height: 350px; 
+    background: white; 
+    float: left;
+}
+.summary{
+    width: 230px; 
+    height: 250px; 
+    background: violet; 
+    margin-left:60px; 
+    margin-top:60px; 
+    border:3px solid black;
+}
+.summary2{
+    padding-left: 12px; 
+    padding-top: 19px; 
+    font-size: 16px
+}
+.subtotal{
+    padding-left: 10px; 
+    padding-top: 10px; 
+    font-size: 13px
+}
+.pay{
+    padding-left: 105px; 
+    padding-top: 10px; 
+    font-size: 13px
+}
+.shipping{
+    padding-left: 10px; 
+    padding-top: 5px; 
+    font-size: 13px
+}
+.eat{
+    padding-left: 10px; 
+    padding-top: 5px; 
+    font-size: 13px
+}
+.a{
+    padding-left: 135px; 
+    padding-top: 5px;
+}
+.footer{
+    width: 800px; 
+    height: 105px; 
+    float: left; 
+    margin-top: 270px; 
+    border-top:3px solid black;
+}
+.categori_footer{
+    padding-left: 10px; 
+    font-size: 15px; 
+    border-style: hidden;
+}
+.stay{
+    padding-left: 200px; 
+    font-size: 15px; 
+    border-style: hidden;
+}
+.icon_visa{
+    width: 30px; 
+    height: 20px; 
+    float: left; 
+    padding-left: 40px;
+}
+.icon_bulat{
+    width: 30px;
+    height: 20px; 
+    float: left; 
+    padding-left: 5px; 
+    padding-bottom: 10px;
+}
+.under_score{
+    width: 35px; 
+    height: 20px; 
+    float: left;
+}
+input{
+    width: 130px; 
+    height: 20px; 
+    margin-left:428px; 
+    border:2px solid black;
+}
+.sub{
+    padding-right: 30px; 
+    width: 80px; height:26px; 
+    background:blue; 
+    border:2px solid black;
+}
